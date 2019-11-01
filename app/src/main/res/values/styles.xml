@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="SplashScreenMainTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorSplashScreenMainBG</item>
+        <item name="colorPrimaryDark">@color/colorSplashScreenMainBG</item>
+        <item name="colorAccent">@color/colorSplashScreenMainBG</item>
+    </style>
+    <style name="LandingPageTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorSplashScreenBG</item>
+        <item name="colorPrimaryDark">@color/colorSplashScreenBG</item>
+        <item name="colorAccent">@color/colorSplashScreenBG</item>
+    </style>
+</resources>

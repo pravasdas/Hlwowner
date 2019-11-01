@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HLW Owner</string>
+    <string name="resend"><u>Resend</u></string>
+    <string name="welcome">Welcome <b>Abroad</b></string>
+    <string name="please">Please enter your mobile number to start your\n<b>new journey</b></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //API URLs
+    <!--<string name="base_url">http://172.104.60.124/cab/service/api/v1/owner/</string>-->
+    <string name="base_url">https://mobile.hlwcab.in/api/v1/owner/</string>
+    <string name="validate_mobile_url">owner_mobileverify.php</string>
+    <string name="otp_mobile_url">owner_signin.php</string>
+    <string name="driver_listing_url">owner_driverList.php?action=driverlist</string>
+    <string name="driver_details_url">owner_driverView.php?action=driverview</string>
+    <string name="vehicle_listing_url">owner_vehicleList.php?action=vehiclelist</string>
+    <string name="vehicle_details_url">owner_vehicleView.php?action=vehicleview</string>
+    <string name="registered_deviceinfo_url">owner_registerDeviceInfo.php?action=deviceinfo</string>
+    <string name="signin_url">owner_signin_with_password.php?action=signin</string>
+    <string name="forgot_url">owner_forget_password.php?action=forget</string>
+    <string name="verifyOTP_url">owner_verify_otp.php?action=verify</string>
+    <string name="updatePassword_url">owner_update_password.php?action=update</string>
+    /////============================================
+    <string name="btn_login">Login</string>
+    <string name="hint_userid">Mobile Number</string>
+</resources>

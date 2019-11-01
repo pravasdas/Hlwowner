@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5C93D3</color>
+    <color name="colorPrimaryDark">#0067C7</color>
+    <color name="colorAccent">#FFDE16</color>
+    <color name="colorSplashScreenMainBG">#A0C4FF</color>
+    <color name="colorSplashScreenBG">#E8E8EA</color>
+    <color name="colorSp">#2DCE0D</color>
+    <color name="colorS">#F72313</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="offwhite">#5AD1CCCC</color>
+    <color name="black">#000000</color>
+    <color name="grey">#8C8C8C</color>
+
+    <array name="array_dot_active">
+        <item>@color/white</item>
+        <item>@color/white</item>
+        <item>@color/white</item>
+        <item>@color/white</item>
+        <item>@color/white</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/offwhite</item>
+        <item>@color/offwhite</item>
+        <item>@color/offwhite</item>
+        <item>@color/offwhite</item>
+        <item>@color/offwhite</item>
+    </array>
+</resources>
